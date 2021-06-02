@@ -1,4 +1,4 @@
-# MySQL Book Library API
+# MySQL Book Library
 
 This repository contains the integration test suite for Book Library challenge.
 
