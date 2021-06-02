@@ -1,11 +1,11 @@
-# MySQL Book Library API
+# MySQL Book Library
 
-This repository contains the integration test suite for Book Library API challenge.
+This repository contains the integration test suite for Book Library challenge.
 
 ### Install
 - Fork this repository
-- `git clone git@github.com:<your-github-username>/book-library-api.git`
-- `cd book-library-api`
+- `git clone git@github.com:<your-github-username>/book-library.git`
+- `cd book-library`
 - `npm install`
 
 ### Running the Tests
